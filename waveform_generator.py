@@ -4,9 +4,6 @@ import matplotlib.pyplot as plt
 dr = int(1e9)
 fs = int(10e9)
 
-Ts = 1/fs
-Td = 1/dr
-
 data = "10101010101100110011001110111011101110"
 bits = len(data)
 data_v = ""
