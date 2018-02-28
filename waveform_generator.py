@@ -1,8 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-dr = int(1e9)
-fs = int(10e9)
+dr = 1e9
+fs = 10e9
 
 data = "10101010101100110011001110111011101110"
 bits = len(data)
